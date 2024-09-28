@@ -1,0 +1,26 @@
+body {
+    background-color: #1a1a1a; /* Dark background to highlight gold */
+    color: white;
+    font-family: 'Creepster', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #FFD700; /* Gold color */
+}
+
+.btn-warning {
+    background-color: #FFD700;
+    color: black;
+    border-radius: 5px;
+}
+
+.btn-warning:hover {
+    background-color: #E6BE00; /* Darker gold on hover */
+}
+
+footer {
+    background-color: #000;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
